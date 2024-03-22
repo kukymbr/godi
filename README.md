@@ -71,4 +71,4 @@ if ctn.Has("db") {
 
 ## License
 
-MIT.
+[MIT](LICENSE).
